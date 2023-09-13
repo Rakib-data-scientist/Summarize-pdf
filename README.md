@@ -4,4 +4,5 @@
 
 # UI : 
 
-* ![Working UI](https://github.com/Rakib-data-scientist/Summarize-pdf/assets/137823730/a96f6abd-6c87-4fb1-8bd8-0539bca94726)
+* ![Working UI](https://github.com/Rakib-data-scientist/Summarize-pdf/assets/137823730/9d5522de-536d-4d04-9b54-312133c33865)
+
